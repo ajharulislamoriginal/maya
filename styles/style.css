@@ -1,0 +1,219 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body {
+    background-color: #daebf36d;
+}
+/* shered */
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.Primary-Color {
+    color: #4E47FF;
+}
+
+.bg-primary {
+    background-color: #4E47FF;
+}
+
+
+.btn-class {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #4E47FF;
+}
+
+
+
+.header-section {
+    background-image: url("/images/Hero-bg.png");
+    height:500px;
+}
+
+.nav-section {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 90px;
+}
+
+.logo ,.nav-button {
+    margin-top: 35px;
+}
+
+.nav-section h1 {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.banner-section {
+    height: 350px;
+    text-align: center;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.banner-items {
+    padding: 140px;
+}
+.banner-items h2 {
+    font-size: 65px;
+    font-weight: bold;
+}
+
+.banner-items button {
+    margin-top: 20px;
+}
+
+.action-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 80px 30px;
+    gap: 30px;
+}
+
+.action-section img {
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+    
+
+}
+
+.action-section .action-text {
+    padding: 90px;
+}
+
+.action-section .action-text h3 {
+    font-size: 30px;
+}
+
+.action-section .action-text p {
+    margin: 20px 0px;
+}
+
+.action-section .action-img {
+    padding: 20px;
+}
+
+.user-one {
+    max-width:1140px;
+    height: 205px;
+    background-color:#a8dcf46d;
+    margin: 30px 90px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px;
+
+}
+
+
+.user-one h2 {
+    margin-bottom: 40px;
+}
+
+.user-items {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.user-items h1 {
+    font-weight: bolder;
+    font-size: 50px;
+}
+.focus {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.focus-items {
+    background-color: white;
+    padding: 80px 100px;
+    width:1080px;
+    border-radius: 15px;
+    
+}
+
+.focus-items img {
+    width: 700px;
+    height: auto;
+    border-radius: 15px;
+}
+
+
+.focus-items p {
+    margin: 20px 0px;
+}
+.focus-items button {
+    margin-bottom: 20px;
+}
+
+.touch-items {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: left;
+    width: 1140px;
+    margin: 80px 88px;
+}
+
+
+.touch-items .touch-heading {
+    width: 50%;
+    padding: 50px 50px 50px 0px;
+    font-size: 35px;
+}
+
+.touch-items .touch-form {
+    width: 50%;
+}
+
+.touch-form label {
+    font-weight: bold;
+}
+
+
+
+.touch-form input {
+    display: block;
+    width: 90%;
+    height: 50px;
+    margin-bottom: 15px;
+    border: 0.3 solid black;
+    
+}
+
+
+.touch-form button {
+    width: 90%;
+    margin:15px 0px;
+    height: 40px;
+    padding: 3px 0px;
+    font-size: 20px;
+    border: none;
+    background-color: #4E47FF;
+    border-radius: 6px;
+}
+
+
+
+ 
+
+.touch-form textarea {
+    display: block;
+    width: 90%;
+}
+
