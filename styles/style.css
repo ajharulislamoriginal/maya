@@ -7,6 +7,11 @@ body {
     background-color: #daebf36d;
 }
 /* shered */
+
+
+
+
+
 .raleway-normal {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
@@ -116,7 +121,9 @@ body {
     padding: 30px;
 
 }
-
+.user-items {
+    font-family: sans-serif;
+}
 
 .user-one h2 {
     margin-bottom: 40px;
@@ -217,3 +224,50 @@ body {
     width: 90%;
 }
 
+
+.footer-items {
+    background-color: white;
+    padding: 90px 380px;
+}
+
+.footer-items h1 {
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.footer-items p {
+    margin: 15px 0px;
+}
+
+
+
+.footer-items .div-footer-title {
+     text-align: center;
+}
+
+.footer-links ul  {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 30px;
+}
+ 
+
+.footer-links ul li{
+    list-style: none;
+}
+
+
+
+.footer-links ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+
+.footer-links ul li a:hover {
+    color: #4E47FF;
+
+}
