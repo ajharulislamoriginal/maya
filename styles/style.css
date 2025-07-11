@@ -6,8 +6,6 @@
 body {
     background-color: #daebf36d;
 }
-/* shered */
-
 
 
 
@@ -40,7 +38,7 @@ body {
 
 
 .header-section {
-    background-image: url("/images/Hero-bg.png");
+    background-image: url("images/Hero-bg.png");
     height:500px;
 }
 
@@ -277,8 +275,6 @@ body {
 }
 
 
-/* new projects add start */
-
 
 .our-user h1 {
         text-align: center;
@@ -306,9 +302,6 @@ body {
  
 
 
- 
-
-
 .our-user-items {
     display: flex;
     justify-content: space-around;
@@ -317,13 +310,6 @@ body {
 
 }
 
-/* flex items  */
-
-
-
-
-
-/* item section  start*/
 
 
 .our_user_item {
@@ -335,15 +321,8 @@ body {
      background-color: white;
 }
 
-/* item section end */
+ 
 
-
-
-
-
-
-
-/* our id start */
 
 
     .our-id {
@@ -356,10 +335,6 @@ font-size: 13px;
 
  
 
-
-  
-
-
     .our-id-img img {
        border-radius: 50%;
        height: 30px;
@@ -369,12 +344,5 @@ font-size: 13px;
     }
 
 
-
-
-
-    /* our id end */
-
-
-/* new projecrs add end  */
 
  
